@@ -6,3 +6,5 @@ Creating a new branch is quick and Simple.
 
 new dev.
 
+—— —-no-off merge
+
