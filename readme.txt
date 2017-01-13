@@ -8,8 +8,12 @@ new dev.
 
 —— —-no-off merge
 
+<<<<<<< HEAD
 - set-upstream-to origin dev
 
 cherry-pick
 
 cherry-pick again
+=======
+- set-upstream-to origin dev
+>>>>>>> parent of 9942412... cherry-pick in branch dev
